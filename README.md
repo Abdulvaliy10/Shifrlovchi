@@ -8,8 +8,8 @@
 
 Experience Shifrlovchi in action:
 
-![Shifrlovchi Preview](./assets/preview.gif)  
-*Rotating gears animation demonstrates encryption/decryption process.*
+ Shifrlovchi Preview(./assets/preview-image)  
+ *Rotating gears animation demonstrates encryption/decryption process.*
 
 ---
 
@@ -40,5 +40,5 @@ Experience Shifrlovchi in action:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/shifrlovchi.git
+   git clone https://github.com/Abdulvaliy10/Shifrlovchi
    cd shifrlovchi
